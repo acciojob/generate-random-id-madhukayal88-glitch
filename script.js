@@ -1,5 +1,4 @@
 function makeid(l) {
- function makeid(l) {
     const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     let result = '';
     
@@ -12,7 +11,6 @@ function makeid(l) {
     }
     
     return result;
- }
 }
 
 // Do not change the code below.
